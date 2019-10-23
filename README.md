@@ -1,7 +1,10 @@
 # RTSP-RTP-Stream
 
-autores: André Lannes Bernardes Agel
-	Samuel Fernandes Terra dos Reis
+autores:
+
+.André Lannes Bernardes Agel 
+
+.Samuel Fernandes Terra dos Reis
 
 Uma implementaçao python da tarefa de programação do capítulo Redes Multimídia do livro do kurose: "Computer Networking: A Top-Down Approach". [programming assignment 7](http://media.pearsoncmg.com/aw/aw_kurose_network_3/labs/lab7/lab7.html)
  
