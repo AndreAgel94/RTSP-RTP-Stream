@@ -1,5 +1,8 @@
 # RTSP-RTP-Stream
 
+autores: André Lannes Bernardes Agel
+	Samuel Fernandes Terra dos Reis
+
 Uma implementaçao python da tarefa de programação do capítulo Redes Multimídia do livro do kurose: "Computer Networking: A Top-Down Approach". [programming assignment 7](http://media.pearsoncmg.com/aw/aw_kurose_network_3/labs/lab7/lab7.html)
  
 A aplicação implementa um servidor de vídeo streaming e um cliente, comunicando-se usando o protocolo de transmissã em tempo real(RTSP) e o protocolo de transferência em tempo real(RTP)
